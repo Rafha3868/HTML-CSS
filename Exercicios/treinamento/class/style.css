@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(132, 132, 209);
+}
+h1 {
+    text-align: center;
+    background-color: snow;
+    width: 1000px;
+    height: 60px;
+    padding: 3px;
+    margin: auto;
+    box-shadow:black 3px;
+}
+.basico {
+color: rgb(219, 243, 1);
+}
+.intermediario {
+    color: green;
+}
+.avançado {
+    color: red;
+}
